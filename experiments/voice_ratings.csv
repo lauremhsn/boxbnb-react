@@ -1,0 +1,27 @@
+persona,label,task,answer,rating
+bob,strict (Ashe),price,"The Fridge Box Penthouse is 12 treats a night. It's a big one, but be warned: the door is a bit of a challenge. Your human will appreciate the effort you put into making it multi-level.",2
+ivy,strict (Ashe),tuesday,"Ooh, Tuesday!
+- 10am: Video Call Cameo! Walk right across the screen while the boss is talking. Hi boss!
+- 2pm-4pm: Living Room Sunbeam! So cozy, I napped in that one for three hours once.
+Total: 10 treats",3
+ashe,strict (Ashe),desk_chair,"REJECTED, 6 points.
+- They need it: 3. Fine.
+- Busy hours: 2.
+- It's warm: 1.",4
+bob,balanced (Bob),price,"The Fridge Box Penthouse is 12 treats per night. It's a spacious multi-level spot, but I have to warn you that it's only multi-level once you chew a door into it.",2
+ivy,balanced (Bob),tuesday,"Ooh, Tuesday!
+- 2pm-4pm: Snuggle up in the Living Room Sunbeam while human reads, maybe even take a nap!
+- 4pm: A cameo during the video call, I'll walk right across the screen, just like I do on Fridays! 
+Total: 10 treats",4
+ashe,balanced (Bob),desk_chair,"REJECTED, 6 points.
+ 
+- It's for the human's use: 3.
+- It's in the way during busy hours: 2.
+- It's warm: 1.",3
+bob,playful (Ivy),price,"The Fridge Box Penthouse is 12 treats a night. Spacious, multi-level once you're done knocking holes in the walls. I'm just proud I could log that description accurately.",4
+ivy,playful (Ivy),tuesday,"Sorry, I got lost there. Could you ask that again?",1
+ashe,playful (Ivy),desk_chair,"CERTIFIED, 8 points.
+- Heavy: should be there.
+- Won't move even if they try. Good.
+- Warm after use is okay.
+- Coffee within paw's reach, fine.",3

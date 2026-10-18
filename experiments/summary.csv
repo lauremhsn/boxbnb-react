@@ -1,0 +1,23 @@
+experiment,label,success,steps,format_errors,thought_rate,invented,seconds,words,runs
+cot,with CoT,0.71,4.21,0.0,0.83,7,5.75,30.96,24
+cot,without CoT,0.83,4.12,0.46,0.0,2,5.52,33.17,24
+frequency_penalty,freq 0.0,0.75,6.0,0.12,0.56,2,11.28,40.88,8
+frequency_penalty,freq 0.6,0.38,6.38,0.0,0.52,5,9.1,32.0,8
+frequency_penalty,freq 1.5,0.38,7.12,0.5,0.64,2,11.81,26.62,8
+model,gemini-3.8-flash,0.42,1.75,0.17,0.42,0,39.07,40.25,12
+model,llama3.1:8b,0.75,4.17,0.0,1.0,4,5.62,28.25,12
+num_predict,max 120,0.62,4.0,0.5,1.0,0,7.26,14.88,8
+num_predict,max 300,0.88,4.0,0.0,1.0,0,4.9,21.0,8
+persona_config,balanced (Bob),0.79,3.96,0.0,0.82,5,5.2,32.0,24
+persona_config,playful (Ivy),0.67,4.17,0.0,0.82,6,5.77,32.62,24
+persona_config,strict (Ashe),0.96,3.58,0.0,1.0,4,4.35,31.38,24
+placement,in message,0.71,4.17,0.04,0.82,1,6.9,31.58,24
+placement,system prompt,0.71,4.21,0.0,0.83,7,5.75,30.96,24
+shots,few-shot,0.71,4.21,0.0,0.83,7,5.75,30.96,24
+shots,zero-shot,0.58,4.71,0.75,0.59,2,9.61,25.46,24
+temperature,temp 0.2,0.75,5.62,0.0,1.0,1,8.75,31.5,8
+temperature,temp 0.7,0.75,6.62,0.12,0.5,4,11.12,28.62,8
+temperature,temp 1.1,0.38,6.38,0.0,0.52,5,9.1,32.0,8
+temperature,temp 1.5,0.62,6.0,0.0,0.36,0,10.39,32.0,8
+top_k,top_k 1,0.88,6.0,0.0,1.0,3,10.04,39.38,8
+top_k,top_k 80,0.38,6.38,0.0,0.52,5,9.1,32.0,8

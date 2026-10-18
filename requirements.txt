@@ -1,0 +1,6 @@
+langgraph>=1.2,<2
+ollama>=0.6,<1
+google-genai>=2.30,<3
+gradio>=6.30,<7
+pandas>=3.0,<4
+python-dotenv>=1.2,<2

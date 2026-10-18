@@ -1,0 +1,22 @@
+﻿# secrets
+.env
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# jupyter
+.ipynb_checkpoints/
+
+# gradio
+.gradio/
+flagged/
+
+# agent logs
+logs/
+
+# OS junk
+.DS_Store
+Thumbs.db

@@ -1,0 +1,10 @@
+{
+  "note": "The household human's usual week.",
+  "Monday": ["9am-12pm: report deadline on the laptop", "7pm: folds laundry on the bed"],
+  "Tuesday": ["10am: important video call", "2pm-4pm: reads in the living room armchair"],
+  "Wednesday": ["8am: laundry day, clean clothes left on the bed", "6pm: hosts dinner guests, glasses on the table"],
+  "Thursday": ["all day: works from home on the laptop", "11pm: goes to bed early, alarm set for 6am"],
+  "Friday": ["9am: video call with the boss", "evening: out, apartment empty"],
+  "Saturday": ["morning: sleeps in", "afternoon: cleans the house and takes out the recycling"],
+  "Sunday": ["all day: home, sitting in the good chair"]
+}

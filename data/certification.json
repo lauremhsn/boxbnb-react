@@ -1,0 +1,13 @@
+{
+  "pass_mark": 7,
+  "criteria": [
+    {"key": "in_human_path", "points": 3, "description": "The human has to walk through or past it every day."},
+    {"key": "human_needs_it", "points": 3, "description": "It is something the human needs to use: a chair, a keyboard, clean clothes, a bed."},
+    {"key": "near_fragile", "points": 2, "description": "Something breakable or spillable is within paw reach."},
+    {"key": "busy_hours", "points": 2, "description": "It is most inconvenient during the human's busy hours (work, calls, deadlines)."},
+    {"key": "warm", "points": 1, "description": "It is warm."},
+    {"key": "enclosed", "points": 1, "description": "It is enclosed on at least three sides."},
+    {"key": "easily_moved", "points": -2, "description": "The human can simply move it out of the way."},
+    {"key": "smells_like_recycling", "points": -1, "description": "It smells like the recycling bin."}
+  ]
+}
